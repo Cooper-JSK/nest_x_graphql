@@ -15,5 +15,10 @@ export const testUsers = [
         id: 3,
         username: 'peter',
         displayName: 'Peter the dev'
+    },
+    {
+        id: 4,
+        username: 'susantha',
+        displayName: 'Susa the chatbot'
     }
 ]

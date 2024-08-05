@@ -9,11 +9,7 @@ export const testUserSettings = [
         receiveNotifications: true,
         receiveEmails: false
     },
-    {
-        userId: 3,
-        receiveNotifications: true,
-        receiveEmails: true
-    },
+
     {
         userId: 4,
         receiveNotifications: false,
